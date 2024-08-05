@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Name {
+public class Name {
+    public static void main (String[]args){
+        System.out.print("Savelieva\tUliyana");
+    }
 }
